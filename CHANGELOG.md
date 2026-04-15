@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-regel-rtf-maskinell-subprocess.
 
+## 0.0.2 (2026-04-15)
+
+### Bug Fixes
+
+-  correct RegelService path ([f75d8](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/f75d829ae7794f5) Nils Elveros)  
+
 ## 0.0.1 (2026-04-14)
 
 ### Bug Fixes
