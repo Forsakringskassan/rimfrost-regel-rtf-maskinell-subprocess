@@ -2,6 +2,20 @@
 
 Changelog of rimfrost-regel-rtf-maskinell-subprocess.
 
+## 1.0.0 (2026-04-28)
+
+### Breaking changes
+
+-  release 1.0 ([e40e7](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/e40e7a349b9eab3) Nils Elveros)  
+
+### Features
+
+-  release 1.0 ([e40e7](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/e40e7a349b9eab3) Nils Elveros)  
+
+### Bug Fixes
+
+-  **deps**  update dependency se.fk.rimfrost.framework.regel:rimfrost-framework-regel-asyncapi to v0.0.5 ([a09d2](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/a09d2900b5e44ef) renovate[bot])  
+
 ## 0.0.2 (2026-04-15)
 
 ### Bug Fixes
