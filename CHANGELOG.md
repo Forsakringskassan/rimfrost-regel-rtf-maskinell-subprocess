@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-regel-rtf-maskinell-subprocess.
 
+## 1.1.1 (2026-05-25)
+
+### Bug Fixes
+
+-  Bump rimfrost-framework-regel-asyncapi and rimfrost-framework-process versions ([fbd86](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/fbd86b41de9ece6) Lars Persson)  
+
 ## 1.1.0 (2026-05-18)
 
 ### Other changes
