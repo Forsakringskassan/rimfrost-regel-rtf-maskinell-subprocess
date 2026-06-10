@@ -2,6 +2,14 @@
 
 Changelog of rimfrost-regel-rtf-maskinell-subprocess.
 
+## 1.1.4 (2026-06-10)
+
+### Bug Fixes
+
+-  add reponse topic name setting ([02789](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/027898974d0d220) Nils Elveros)  
+
+## rimfrost-1.1 (2026-06-02)
+
 ## 1.1.3 (2026-06-02)
 
 ### Bug Fixes
