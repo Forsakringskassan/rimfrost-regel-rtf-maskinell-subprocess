@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-regel-rtf-maskinell-subprocess.
 
+## 1.1.5 (2026-06-15)
+
+### Bug Fixes
+
+-  add response topic prop ([db5ee](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/db5ee8918f88c1a) Nils Elveros)  
+
 ## 1.1.4 (2026-06-10)
 
 ### Bug Fixes
