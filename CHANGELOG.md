@@ -2,6 +2,13 @@
 
 Changelog of rimfrost-regel-rtf-maskinell-subprocess.
 
+## 1.1.6 (2026-06-26)
+
+### Bug Fixes
+
+-  use result instead of throw ([b7da0](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/b7da006e22b2c35) Nils Elveros)  
+-  add retry and timeout ([f30b8](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/f30b8625954410d) Nils Elveros)  
+
 ## 1.1.5 (2026-06-15)
 
 ### Bug Fixes
