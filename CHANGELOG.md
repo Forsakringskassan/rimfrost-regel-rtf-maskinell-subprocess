@@ -2,6 +2,16 @@
 
 Changelog of rimfrost-regel-rtf-maskinell-subprocess.
 
+## 1.1.7 (2026-09-23)
+
+### Bug Fixes
+
+-  Bump dependency versions in preparation for 1.2 ([2ad76](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/2ad767d4f7b2d38) Lars Persson)  
+-  **deps**  update dependency se.fk.rimfrost.framework.process:rimfrost-framework-process to v1.6.3 ([91e1f](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/91e1ff855d75517) renovate[bot])  
+
+### Dependency updates
+
+- pin forsakringskassan/.github action to d1349e6 ([94cc4](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/94cc4d74d6fba29) renovate[bot])  
 ## 1.1.6 (2026-06-26)
 
 ### Bug Fixes
