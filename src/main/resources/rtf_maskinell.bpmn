@@ -181,37 +181,28 @@
       <bpmn2:incoming>_9CED9132-2CF3-4916-A88C-2B6322A6C001</bpmn2:incoming>
       <bpmn2:incoming>_E80F7336-21EB-47D9-9426-F8D77734D5AE</bpmn2:incoming>
       <bpmn2:outgoing>_4F391B75-17B0-41CC-9FE2-22787F132361</bpmn2:outgoing>
-      <bpmn2:ioSpecification id="_1457840A-D284-44D1-84A5-32D8717F4955">
-        <bpmn2:dataInput id="_4BDB7B50-D6B6-4B64-A3EE-FC75931E6C49" name="handlaggningId" drools:dtype="String" itemSubjectRef="__428739B8-C962-4EBE-A16B-6E2B5133D50B_aktivitetIdInputXItem" />
-        <bpmn2:dataInput id="_E88E3BD4-9650-4579-976F-21E55FB3C0BB" name="aktivitetId" drools:dtype="String" itemSubjectRef="__428739B8-C962-4EBE-A16B-6E2B5133D50B_aktivitetIdInputXItem" />
-        <bpmn2:dataInput id="_1C98B27D-BF2E-4A03-99A3-D373DDDBEF06" name="responseTopicProperty" drools:dtype="String" itemSubjectRef="__428739B8-C962-4EBE-A16B-6E2B5133D50B_aktivitetIdInputXItem" />
-        <bpmn2:dataOutput name="request" id="_D44F2D6E-E9F6-47CA-8CF7-F3B7765C3C73" drools:dtype="se.fk.rimfrost.framework.regel.RegelRequestMessagePayloadData" itemSubjectRef="rtf-maskinell-requestsType" />
-        <bpmn2:inputSet id="_CA30BAD2-82D1-4013-A540-EF55DD71924C">
-          <bpmn2:dataInputRefs>_4BDB7B50-D6B6-4B64-A3EE-FC75931E6C49</bpmn2:dataInputRefs>
-          <bpmn2:dataInputRefs>_E88E3BD4-9650-4579-976F-21E55FB3C0BB</bpmn2:dataInputRefs>
-          <bpmn2:dataInputRefs>_1C98B27D-BF2E-4A03-99A3-D373DDDBEF06</bpmn2:dataInputRefs>
+      <bpmn2:ioSpecification id="_812D6211-1E28-4306-8025-E34C0C597144">
+        <bpmn2:dataInput id="_A9FE1961-EF8D-429F-B1D7-481B264FEC01" name="handlaggningId" drools:dtype="String" itemSubjectRef="__428739B8-C962-4EBE-A16B-6E2B5133D50B_aktivitetIdInputXItem" />
+        <bpmn2:dataInput id="_B6BF5361-7638-4249-9D3F-2FA0FCF4AD7C" name="aktivitetId" drools:dtype="String" itemSubjectRef="__428739B8-C962-4EBE-A16B-6E2B5133D50B_aktivitetIdInputXItem" />
+        <bpmn2:dataOutput name="request" id="_15BE898A-1CFF-43D9-A5F0-D469EBACCA9D" drools:dtype="se.fk.rimfrost.framework.regel.RegelRequestMessagePayloadData" itemSubjectRef="rtf-maskinell-requestsType" />
+        <bpmn2:inputSet id="_025FF2F0-F315-488F-88C6-D9C28418E62B">
+          <bpmn2:dataInputRefs>_A9FE1961-EF8D-429F-B1D7-481B264FEC01</bpmn2:dataInputRefs>
+          <bpmn2:dataInputRefs>_B6BF5361-7638-4249-9D3F-2FA0FCF4AD7C</bpmn2:dataInputRefs>
         </bpmn2:inputSet>
-        <bpmn2:outputSet id="_4C8EEEF0-E4AC-4BFF-8376-63ABCB04F7D5">
-          <bpmn2:dataOutputRefs>_D44F2D6E-E9F6-47CA-8CF7-F3B7765C3C73</bpmn2:dataOutputRefs>
+        <bpmn2:outputSet id="_4444B6CA-A0FA-47FE-9F55-8AFDEFD674C6">
+          <bpmn2:dataOutputRefs>_15BE898A-1CFF-43D9-A5F0-D469EBACCA9D</bpmn2:dataOutputRefs>
         </bpmn2:outputSet>
       </bpmn2:ioSpecification>
-      <bpmn2:dataInputAssociation id="_D7085F16-1AE9-437C-9ECC-3DD8680DFD2F">
+      <bpmn2:dataInputAssociation id="_E1A57360-0B27-4524-92C7-7275A5F67B00">
         <bpmn2:sourceRef>handlaggningId</bpmn2:sourceRef>
-        <bpmn2:targetRef>_4BDB7B50-D6B6-4B64-A3EE-FC75931E6C49</bpmn2:targetRef>
+        <bpmn2:targetRef>_A9FE1961-EF8D-429F-B1D7-481B264FEC01</bpmn2:targetRef>
       </bpmn2:dataInputAssociation>
-      <bpmn2:dataInputAssociation id="_FF62DE53-5201-443D-8D88-60E438BEB05F">
+      <bpmn2:dataInputAssociation id="_E94775EB-CA3D-486E-A1EB-7D5B936D8F7A">
         <bpmn2:sourceRef>aktivitetId</bpmn2:sourceRef>
-        <bpmn2:targetRef>_E88E3BD4-9650-4579-976F-21E55FB3C0BB</bpmn2:targetRef>
+        <bpmn2:targetRef>_B6BF5361-7638-4249-9D3F-2FA0FCF4AD7C</bpmn2:targetRef>
       </bpmn2:dataInputAssociation>
-      <bpmn2:dataInputAssociation id="_EE7978E5-8D88-4864-95EF-BBE84A6ADE73">
-        <bpmn2:targetRef>_1C98B27D-BF2E-4A03-99A3-D373DDDBEF06</bpmn2:targetRef>
-        <bpmn2:assignment id="_FDCB8F39-8608-409A-A3EA-FC845EEDC372">
-          <bpmn2:from id="_E064EC4A-867E-487D-BE99-1B571A055DD1" xsi:type="tFormalExpression">RTF_MASKINELL_RESPONSE_TOPIC_NAME</bpmn2:from>
-          <bpmn2:to id="_D2AE6CA3-0CF8-42C3-81DF-DD58E39B0E5F">_1C98B27D-BF2E-4A03-99A3-D373DDDBEF06</bpmn2:to>
-        </bpmn2:assignment>
-      </bpmn2:dataInputAssociation>
-      <bpmn2:dataOutputAssociation id="_FD229491-6D1A-4574-95F9-245130F572C1">
-        <bpmn2:sourceRef>_D44F2D6E-E9F6-47CA-8CF7-F3B7765C3C73</bpmn2:sourceRef>
+      <bpmn2:dataOutputAssociation id="_FBADF1FA-9583-4075-B07B-4DED72E06FB7">
+        <bpmn2:sourceRef>_15BE898A-1CFF-43D9-A5F0-D469EBACCA9D</bpmn2:sourceRef>
         <bpmn2:targetRef>request</bpmn2:targetRef>
       </bpmn2:dataOutputAssociation>
     </bpmn2:serviceTask>
