@@ -2,6 +2,19 @@
 
 Changelog of rimfrost-regel-rtf-maskinell-subprocess.
 
+## 1.1.8 (2026-10-30)
+
+### Bug Fixes
+
+-  replace legacy workflow files and bump rimfrost dependencies to latest ([007f0](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/007f08b7fef3ea2) Ulf Slunga)  
+-  remove replyTo prop from regelrequest ([3d81a](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/3d81ad1d18e5cbd) Nils Elveros)  
+
+### Dependency updates
+
+- update forsakringskassan/.github digest to cbd74f1 ([3097b](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/3097b4ba4ea6601) renovate[bot])  
+- update forsakringskassan/.github digest to bfb01f7 ([14e1a](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/14e1abec6e8058f) renovate[bot])  
+## rimfrost-1_2 (2026-09-23)
+
 ## 1.1.7 (2026-09-23)
 
 ### Bug Fixes
