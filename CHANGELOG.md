@@ -2,6 +2,25 @@
 
 Changelog of rimfrost-regel-rtf-maskinell-subprocess.
 
+## 1.1.9 (2026-11-10)
+
+### Bug Fixes
+
+-  update pom ([4361f](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/4361feecf85b872) Nils Elveros)  
+
+### Dependency updates
+
+- update forsakringskassan/.github digest to cbc0db8 ([eec0f](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/eec0fe83ac1c885) renovate[bot])  
+- update forsakringskassan/.github digest to 625efb1 ([19a50](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/19a5009552313cf) renovate[bot])  
+### Other changes
+
+**Update pom.xml**
+
+* Co-authored-by: larpersso &lt;254442132+larpersso@users.noreply.github.com&gt; 
+
+[cb6a2](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/cb6a255cb65fad7) NilsElveros *2026-11-10 07:58:00*
+
+
 ## 1.1.8 (2026-10-30)
 
 ### Bug Fixes
