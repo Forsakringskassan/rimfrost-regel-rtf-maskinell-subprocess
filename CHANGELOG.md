@@ -2,6 +2,14 @@
 
 Changelog of rimfrost-regel-rtf-maskinell-subprocess.
 
+## 1.2.0 (2026-11-27)
+
+### Features
+
+-  Bump dependencies ([328cc](https://github.com/Forsakringskassan/rimfrost-regel-rtf-maskinell-subprocess/commit/328cc1e53194c5e) Lars Persson)  
+
+## rimfrost-1_3 (2026-11-19)
+
 ## 1.1.10 (2026-11-19)
 
 ### Bug Fixes
